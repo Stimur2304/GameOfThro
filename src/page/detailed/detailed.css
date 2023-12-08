@@ -1,0 +1,21 @@
+.photoAndFullName{
+    margin: 0 auto;
+    width: max-content;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 200px;
+}
+.desc{
+    display: grid;
+    grid-template-columns: 10% 10%;
+   margin-left: 100px;
+   
+
+    
+}
+.header{
+    text-align: left;
+}
+.info{
+    text-align: left;
+}
